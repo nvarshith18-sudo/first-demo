@@ -1,2 +1,2 @@
 # first-demo
-his is a demo for GIT &amp; GITHUB class
+his is a demo for GIT &amp; GITHUB class.
